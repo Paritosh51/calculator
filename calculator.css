@@ -1,0 +1,64 @@
+*{background-color: beige;}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    
+}
+.first{
+    height: 450px;
+    width: 420px;
+    background-color: aqua;
+    display: flex;
+    border-radius: 5px;
+}
+.text{
+    width: 360px;
+    height: 70px;
+    background-color: rgb(91, 174, 98);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    opacity: 0.8;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.button1{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 22px;
+    background-color: azure;
+}
+button{
+    height: 50px;
+    width: 80px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: azure;
+}
+.button2{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 22px;
+    background-color: azure;
+}
+.button3{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 22px;
+    background-color: azure;
+}
+.button4{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 22px;
+    background-color: azure;
+}
+.button5{
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 22px;
+    background-color: azure;
+}
